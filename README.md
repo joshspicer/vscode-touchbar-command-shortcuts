@@ -9,3 +9,7 @@ A Visual Studio Code extension.  Adds an touchbar shortcut to **_any_** arbitrar
 Simply add the [command](https://code.visualstudio.com/api/extension-guides/command) to your editor settings and reload VSCode.
 
 ![settings-screenshot](https://github.com/joshspicer/vscode-touchbar-command-shortcuts/blob/main/imgs/settings.png?raw=true)
+
+## Download 
+
+Download the source code from here or download from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=joshspicer.touchbarcommandshortcuts)
