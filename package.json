@@ -5,6 +5,7 @@
 	"email": "hello@joshspicer.com",
 	"url": "https://joshspicer.com"
   },
+  "publisher": "joshspicer",
   "repository": {
 	  "url": "https://github.com/joshspicer/vscode-touchbar-command-shortcuts"
   },
