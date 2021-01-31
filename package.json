@@ -14,7 +14,7 @@
   },
 	"displayName": "Touchbar Command Shortcuts",
 	"description": "Create arbitrary shortcuts on your touchbar for commands for any installed extensions",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.52.0"
 	},

@@ -1,7 +1,5 @@
 on:
-  push:
-    branches:
-      - main
+  release:
 name: Deploy Extension
 jobs:
   deploy:
