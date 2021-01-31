@@ -5,8 +5,14 @@
 	"email": "hello@joshspicer.com",
 	"url": "https://joshspicer.com"
   },
+  "repository": {
+	  "url": "https://github.com/joshspicer/vscode-touchbar-command-shortcuts"
+  },
+  "bugs": {
+	  "url": "https://github.com/joshspicer/vscode-touchbar-command-shortcuts"
+  },
 	"displayName": "Touchbar Command Shortcuts",
-	"description": "Create arbitrary shortcuts on your touchbar for commands from any extensions",
+	"description": "Create arbitrary shortcuts on your touchbar for commands for any installed extensions",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.52.0"
